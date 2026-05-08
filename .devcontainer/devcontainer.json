@@ -6,7 +6,7 @@
       "version": "22"
     }
   },
-  "postCreateCommand":npm install -g openclaw@latest && npm install",
+  "postCreateCommand": "npm install -g openclaw@latest && npm install",
   "forwardPorts": [18789],
   "portsAttributes":{
     "18789":{
